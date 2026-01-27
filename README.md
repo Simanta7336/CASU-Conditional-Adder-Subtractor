@@ -1,6 +1,7 @@
 CASU – Conditional Adder/Subtractor (3-bit)
 
 Project Overview
+
 This project implements a 3-bit Conditional Adder/Subtractor (CASU) using basic digital logic gates.
 The circuit performs different arithmetic operations based on the comparison between two unsigned 3-bit inputs A and B.
 
